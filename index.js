@@ -37,5 +37,5 @@ client.on("ready", () => {
         type: "PLAYING",
     });
 });
-client.login(token
+client.login(token)
 //-----------https://discord.gg/jBBc6JYT------------
