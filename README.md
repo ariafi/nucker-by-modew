@@ -1,5 +1,5 @@
 # Description
-This code contains a Discord server malicious software that can delete all channels and create new channels with the name specified in the code.
+This code contains a Discord server malware that can delete all channels and create new channels with the name specified in the code and delete all roles and kick members out.
 _________________________________________
 # Install
 - open `.env` file and paste your token bot
