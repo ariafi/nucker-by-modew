@@ -1,3 +1,5 @@
+[![By Hoseinfi](https://github.com/Hoseinfi/Hoseinfi/blob/main/by-hoseinfi.png)](https://github.com/Hoseinfi)
+
 # Description
 This code contains a Discord server malicious software that can delete all channels and create new channels with the name specified in the code.
 _________________________________________
